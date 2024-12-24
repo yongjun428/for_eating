@@ -18,8 +18,7 @@
 ## 3.1 다이어그램
 아래는 프로그램의 전체 절차를 나타낸 다이어그램입니다.
 
- https://github.com/yongjun428/for_eating/commits/master/src/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EB%8A%94%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.drawio
-
+ ![drew1](https://github.com/yongjun428/for_eating/blob/master/drew1.png)
 ## 3.2 클래스 다이어그램
 아래는 프로그램의 클래스 다이어그램입니다. draw.io를 통해 생성되었습니다.
 
