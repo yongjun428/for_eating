@@ -19,25 +19,7 @@
 아래는 프로그램의 전체 절차를 나타낸 다이어그램입니다.
 
  ![drew1](https://github.com/yongjun428/for_eating/blob/master/drew1.png)
-## 3.2 클래스 다이어그램
-아래는 프로그램의 클래스 다이어그램입니다. draw.io를 통해 생성되었습니다.
 
-plaintext
-코드 복사
-+------------------+
-|      Main        |
-+------------------+
-| - FILE_NAME      |
-| - restaurantMap  |
-+------------------+
-| + main(args[])   |
-| + createAndShowGUI() |
-| + openViewRestaurantsWindow() |
-| + openAddRestaurantWindow() |
-| + loadRestaurantsFromCSV() |
-| + saveRestaurantsToCSV() |
-| + getFoodTypes() |
-+------------------+
 ## 3.3 절차 설명
 프로그램 시작:
 
