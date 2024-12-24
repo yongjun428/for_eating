@@ -9,6 +9,7 @@ import java.util.*;
  *
  *
  * @created 2024-12-22
+ *  @see <a href="https://chatgpt.com/">ChatGPT</a>
  *
  * @changelog
  * <ul>
